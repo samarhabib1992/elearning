@@ -1,1 +1,35 @@
-test
+# Ubuntu Desktop
+
+## Introduction
+
+Ubuntu supports all of your everyday computer demands by providing necessary apps for web browsing, texting, gaming, and content creation, such as Firefox, Chrome, Discord, Steam, and OBS Studio.
+
+## Features
+
+### Key Tools and Apps
+- **Web Browsing**: Firefox, Chrome
+- **Texting**: Discord
+- **Gaming**: Steam
+- **Content Creation**: OBS Studio
+
+### Latest Tools & Libraries
+- The most recent toolchains, libraries, and apps are included with every Ubuntu release.
+- All major IDEs, game creation tools, and AI/ML software are available.
+
+### Security & Privacy
+- Ubuntu is the safe option for those who value data protection.
+- Prioritizes user privacy and system integrity through frequent updates and integrated security safeguards.
+
+## Downloading Ubuntu Desktop
+
+### Option 1: Download from the Official Page
+- Visit the [official Ubuntu desktop download page](https://ubuntu.com/download/desktop).
+- You can choose to download Ubuntu 24.01 (Noble Numbat) or its latest release 24.10 (Oracular Oriole), with only 9 months of support.
+- You can also download past releases from the page.
+
+### Option 2: Download via CLI
+```bash
+## LTS (Noble Numbat)
+wget https://releases.ubuntu.com/24.04.1/ubuntu-24.04.1-desktop-amd64.iso
+## OR
+curl -O https://releases.ubuntu.com/24.04.1/ubuntu-24.04.1-desktop-amd64.iso
