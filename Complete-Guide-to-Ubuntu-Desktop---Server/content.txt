@@ -1,9 +1,40 @@
 # Ubuntu Desktop
-## Introduction
-### Overview
-#### Features
-##### Key Tools and Apps
-###### Latest Tools & Libraries
-## Downloading Ubuntu Desktop
-### Option 1: Download from the Official Page
-#### Option 2: Download via CLI
+## 1. Introduction
+### 1.1 What is Ubuntu Desktop?
+### 1.2 Key Advantages of Ubuntu
+#### 1.2.1 Open Source and Free
+#### 1.2.2 Customization Flexibility
+#### 1.2.3 Strong Community Support
+### 1.3 Requirements to Install Ubuntu Desktop
+#### 1.3.1 Hardware Requirements
+#### 1.3.2 Software Requirements
+
+## 2. Features
+### 2.1 User Interface
+#### 2.1.1 GNOME Desktop Environment
+#### 2.1.2 Custom Themes and Icons
+### 2.2 Performance Enhancements
+#### 2.2.1 Optimized Resource Management
+#### 2.2.2 Power Efficiency Improvements
+### 2.3 Security Features
+#### 2.3.1 Built-in Firewall
+#### 2.3.2 AppArmor and SELinux
+
+## 3. Key Tools and Apps
+### 3.1 Pre-installed Applications
+#### 3.1.1 LibreOffice Suite
+#### 3.1.2 Firefox Web Browser
+### 3.2 Software Center
+#### 3.2.1 Easy App Installation
+#### 3.2.2 Managing Updates and Upgrades
+### 3.3 Terminal and Shell Usage
+#### 3.3.1 Basic Commands
+#### 3.3.2 Advanced Terminal Features
+
+## 4. Downloading Ubuntu Desktop
+### 4.1 Option 1: Download from the Official Website
+#### 4.1.1 Step-by-step Instructions
+#### 4.1.2 Choosing the Right Version
+### 4.2 Option 2: Download via Command Line Interface (CLI)
+#### 4.2.1 Using wget to Download
+#### 4.2.2 Verifying Download Integrity
