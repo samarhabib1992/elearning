@@ -1,1 +1,0 @@
-This is a new folder created for ebook/ubuntu-guide/downloading-and-installation/complete-guide-to-ubuntu-desktop-&-server.
